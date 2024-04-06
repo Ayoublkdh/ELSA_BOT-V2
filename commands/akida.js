@@ -3,6 +3,7 @@ const Secktor = require('../lib')
 //---------------------------------------------------------------------------
 Secktor.cmd({
     pattern: "السا0",
+    handler.owner = true
     filename: __filename,
 },
 async(Void, citel) => {
@@ -7341,5 +7342,6 @@ async(Void, citel) => {
     ✠═ • ═  •༺⊱╠❄️╣⊰༻• ═ • ═✠`);
 }
 );
+handler.owner = true
 
 //---------------------------------------------------------------------------
