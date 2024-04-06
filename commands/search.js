@@ -86,8 +86,8 @@ cmd({
     
         //---------------------------------------------------------------------------
 cmd({
-        pattern: "iswa",
-        alias :['تخمين','خمن'],
+       // pattern: "iswa",
+        // alias :['تخمين','خمن'],
         category: "search",
         desc: "Searches in given rage about given number.",
         use: '2010989062xx',
@@ -95,7 +95,7 @@ cmd({
     },
     async(Void, citel, text) => {
         var inputnumber = text.split(" ")[0]
-        if (!inputnumber.includes('x')) return citel.reply('*֎╎اكـتـب رقـم للـتـخمـيـن مـثـال┇.تخمين 2010989062xx*')
+        if (!inputnumber.includes('x')) return citel.reply('*֎╎اكـتـب رقـم للـتـخمـيـن مـثـال┇.تخمين 212610989062xx*')
         citel.reply(`*֎╎الـبـحـث عـن حـسـابـات واتـسـاب فـي نـطـاق مـعـيـن...*`)
 
         function countInstances(string, word) {
