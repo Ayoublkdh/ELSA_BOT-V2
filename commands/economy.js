@@ -204,7 +204,7 @@ return await citel.reply(`*֎╎بـنـك💰┇* ${citel.pushName}\n\n_🪙${b
 
      //---------------------------------------------------------------------------
      cmd({
-        pattern: "هجوم",
+      //  pattern: "هجوم",
         desc: "rob bank amount.",
         category: "economy",
         filename: __filename,
