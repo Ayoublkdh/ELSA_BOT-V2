@@ -14,13 +14,13 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://youtube.com/@ABDALLAH_MOHAMED')
+        let { data } = await axios.get('ليس لدي قناة على يوتيوب وليس لدي حساب أنستاغرام ولا حتى فايسبوك')
         let cap = `هـاي ${citel.pushName}\n
 *❄️⃝🧚‍♀️ 𒆜𝑬𝑳𝑺𝑨 𝑩𝑶𝑻𒆜♦️*
 
-*❄️⃝🧚‍♀️ 〘الـيـك فـروع مـجـتـمـعـنـا〙*
+*❄️⃝🧚‍♀️ 〘الـيـك فـروع نـقـابتنـا〙*
 
-*❄️⃝🧚‍♀️ الـفـرع الاول https://chat.whatsapp.com/D2q8dnfUwbL83Tz79bGEK*
+*❄️⃝🧚‍♀️ الـفـرع الاول https://chat.whatsapp.com/BXwZowiOBKBAk6ulykxa5E*
 
 *❄️⃝🧚‍♀️ الـفـرع الـثـانـي قـريـبـا...*`
         let buttonMessaged = {
@@ -30,8 +30,8 @@ cmd({
             headerType: 4,
             contextInfo: {
                 externalAdReply: {
-                    title: "مجتمعنا",
-                    body: "فروع المجتمع",
+                    title: "النقابة",
+                    body: "فروع النقابة",
                     thumbnail: log0,
                     mediaType: 4,
                     mediaUrl: '',
