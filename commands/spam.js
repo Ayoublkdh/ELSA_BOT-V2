@@ -42,7 +42,7 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/392a8ba6b110a998bdb8e.jpg',
+                    url: 'https://telegra.ph/file/fdb173f63da71eb8d7849.jpg',
                 },
 
                 caption: `
@@ -92,7 +92,7 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/392a8ba6b110a998bdb8e.jpg',
+                    url: 'https://telegra.ph/file/fdb173f63da71eb8d7849.jpg',
                 },
 
                 caption: `
@@ -142,7 +142,7 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/392a8ba6b110a998bdb8e.jpg',
+                    url: 'https://telegra.ph/file/fdb173f63da71eb8d7849.jpg',
                 },
 
                 caption: `
@@ -192,7 +192,7 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/392a8ba6b110a998bdb8e.jpg',
+                    url: 'https://telegra.ph/file/fdb173f63da71eb8d7849.jpg',
                 },
 
                 caption: `
@@ -242,7 +242,7 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/392a8ba6b110a998bdb8e.jpg',
+                    url: 'https://telegra.ph/file/fdb173f63da71eb8d7849.jpg',
                 },
 
                 caption: `
@@ -292,7 +292,7 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/392a8ba6b110a998bdb8e.jpg',
+                    url: 'https://telegra.ph/file/fdb173f63da71eb8d7849.jpg',
                 },
 
                 caption: `
@@ -342,7 +342,7 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/392a8ba6b110a998bdb8e.jpg',
+                    url: 'https://telegra.ph/file/fdb173f63da71eb8d7849.jpg',
                 },
 
                 caption: `
@@ -392,7 +392,7 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/392a8ba6b110a998bdb8e.jpg',
+                    url: 'https://telegra.ph/file/fdb173f63da71eb8d7849.jpg',
                 },
 
                 caption: `
@@ -442,7 +442,7 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/392a8ba6b110a998bdb8e.jpg',
+                    url: 'https://telegra.ph/file/fdb173f63da71eb8d7849.jpg',
                 },
 
                 caption: `
@@ -492,7 +492,7 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/392a8ba6b110a998bdb8e.jpg',
+                    url: 'https://telegra.ph/file/fdb173f63da71eb8d7849.jpg',
                 },
 
                 caption: `
